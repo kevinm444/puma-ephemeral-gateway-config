@@ -1,0 +1,9 @@
+test:
+  url: "/test"
+  policy: "test.xml"
+  httpMethods:
+  - "DELETE"
+  - "POST"
+  - "GET"
+  - "PUT"
+  properties: {}
